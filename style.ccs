@@ -1,0 +1,15 @@
+
+body {
+  background: linear-gradient(135deg, #1e1e2f, #2a0845);
+  color: #ffffff;
+  font-family: 'Trebuchet MS', Arial, sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 40px;
+}
+
+h1 {
+  color: #ffcc00;
+  font-size: 48px;
+  text-shadow: 2px 2px 8px black;
+}
